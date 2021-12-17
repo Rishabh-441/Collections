@@ -1,0 +1,11 @@
+import java.util.*;
+public class Main {
+  public static void main(String[] args) {
+  ArrayList<String> arr = new ArrayList<String>();
+  arr.add("yellow");
+  arr.add("green");
+  arr.add("pink");
+  arr.add("black");
+  System.out.println(arr);
+ }
+}
